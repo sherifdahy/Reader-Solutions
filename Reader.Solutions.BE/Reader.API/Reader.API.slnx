@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Reader.BLL/Reader.BLL/Reader.BLL.csproj" />
+  <Project Path="../Reader.DAL/Reader.DAL/Reader.DAL.csproj" />
+  <Project Path="../Reader.Entities/Reader.Entities/Reader.Entities.csproj" />
+  <Project Path="Reader.API/Reader.API.csproj" />
+</Solution>

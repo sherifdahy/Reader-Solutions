@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Email Reader\\Reader.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DB23E4-9653-7B23-4436-D3022FB525DB}|Reader.API\\Reader.API.csproj|f:\\email reader\\reader.api\\reader.api\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DB23E4-9653-7B23-4436-D3022FB525DB}|Reader.API\\Reader.API.csproj|solutionrelative:reader.api\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DB23E4-9653-7B23-4436-D3022FB525DB}|Reader.API\\Reader.API.csproj|f:\\email reader\\reader.api\\reader.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DB23E4-9653-7B23-4436-D3022FB525DB}|Reader.API\\Reader.API.csproj|solutionrelative:reader.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DB23E4-9653-7B23-4436-D3022FB525DB}|Reader.API\\Reader.API.csproj|f:\\email reader\\reader.api\\reader.api\\controllers\\mailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DB23E4-9653-7B23-4436-D3022FB525DB}|Reader.API\\Reader.API.csproj|solutionrelative:reader.api\\controllers\\mailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B233F5EE-FECA-57C7-35E4-AB6A9F3AE615}|..\\Reader.BLL\\Reader.BLL\\Reader.BLL.csproj|f:\\email reader\\reader.bll\\reader.bll\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B233F5EE-FECA-57C7-35E4-AB6A9F3AE615}|..\\Reader.BLL\\Reader.BLL\\Reader.BLL.csproj|f:\\email reader\\reader.bll\\reader.bll\\interfaces\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DB23E4-9653-7B23-4436-D3022FB525DB}|Reader.API\\Reader.API.csproj|f:\\email reader\\reader.api\\reader.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8DB23E4-9653-7B23-4436-D3022FB525DB}|Reader.API\\Reader.API.csproj|solutionrelative:reader.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B233F5EE-FECA-57C7-35E4-AB6A9F3AE615}|..\\Reader.BLL\\Reader.BLL\\Reader.BLL.csproj|f:\\email reader\\reader.bll\\reader.bll\\contracts\\client\\responses\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5DC873-6FF6-E4E7-6A58-0F0C3881B5B8}|..\\Reader.Entities\\Reader.Entities\\Reader.Entities.csproj|f:\\email reader\\reader.entities\\reader.entities\\abstractions\\consts\\defaultusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5DC873-6FF6-E4E7-6A58-0F0C3881B5B8}|..\\Reader.Entities\\Reader.Entities\\Reader.Entities.csproj|f:\\email reader\\reader.entities\\reader.entities\\abstractions\\consts\\defaultroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DB23E4-9653-7B23-4436-D3022FB525DB}|Reader.API\\Reader.API.csproj|f:\\email reader\\reader.api\\reader.api\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DB23E4-9653-7B23-4436-D3022FB525DB}|Reader.API\\Reader.API.csproj|solutionrelative:reader.api\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DB23E4-9653-7B23-4436-D3022FB525DB}|Reader.API\\Reader.API.csproj|f:\\email reader\\reader.api\\reader.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DB23E4-9653-7B23-4436-D3022FB525DB}|Reader.API\\Reader.API.csproj|solutionrelative:reader.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B935F9-6208-7863-5710-E1DBF123CD61}|..\\Reader.DAL\\Reader.DAL\\Reader.DAL.csproj|f:\\email reader\\reader.dal\\reader.dal\\migrations\\20251021171140_update_admin_email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DefaultRoles.cs",
+              "DocumentMoniker": "F:\\Email Reader\\Reader.Entities\\Reader.Entities\\Abstractions\\Consts\\DefaultRoles.cs",
+              "RelativeDocumentMoniker": "..\\Reader.Entities\\Reader.Entities\\Abstractions\\Consts\\DefaultRoles.cs",
+              "ToolTip": "F:\\Email Reader\\Reader.Entities\\Reader.Entities\\Abstractions\\Consts\\DefaultRoles.cs",
+              "RelativeToolTip": "..\\Reader.Entities\\Reader.Entities\\Abstractions\\Consts\\DefaultRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:11:19.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "F:\\Email Reader\\Reader.API\\Reader.API\\Configurations\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Reader.API\\Configurations\\DependencyInjection.cs",
+              "ToolTip": "F:\\Email Reader\\Reader.API\\Reader.API\\Configurations\\DependencyInjection.cs",
+              "RelativeToolTip": "Reader.API\\Configurations\\DependencyInjection.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:10:09.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MailsController.cs",
+              "DocumentMoniker": "F:\\Email Reader\\Reader.API\\Reader.API\\Controllers\\MailsController.cs",
+              "RelativeDocumentMoniker": "Reader.API\\Controllers\\MailsController.cs",
+              "ToolTip": "F:\\Email Reader\\Reader.API\\Reader.API\\Controllers\\MailsController.cs",
+              "RelativeToolTip": "Reader.API\\Controllers\\MailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:05:20.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "F:\\Email Reader\\Reader.API\\Reader.API\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Reader.API\\Controllers\\ClientsController.cs",
+              "ToolTip": "F:\\Email Reader\\Reader.API\\Reader.API\\Controllers\\ClientsController.cs*",
+              "RelativeToolTip": "Reader.API\\Controllers\\ClientsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:04:44.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "F:\\Email Reader\\Reader.API\\Reader.API\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "Reader.API\\Controllers\\GroupsController.cs",
+              "ToolTip": "F:\\Email Reader\\Reader.API\\Reader.API\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "Reader.API\\Controllers\\GroupsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:05:16.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DefaultUsers.cs",
+              "DocumentMoniker": "F:\\Email Reader\\Reader.Entities\\Reader.Entities\\Abstractions\\Consts\\DefaultUsers.cs",
+              "RelativeDocumentMoniker": "..\\Reader.Entities\\Reader.Entities\\Abstractions\\Consts\\DefaultUsers.cs",
+              "ToolTip": "F:\\Email Reader\\Reader.Entities\\Reader.Entities\\Abstractions\\Consts\\DefaultUsers.cs",
+              "RelativeToolTip": "..\\Reader.Entities\\Reader.Entities\\Abstractions\\Consts\\DefaultUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:11:21.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20251021171140_update_admin_email.cs",
+              "DocumentMoniker": "F:\\Email Reader\\Reader.DAL\\Reader.DAL\\Migrations\\20251021171140_update_admin_email.cs",
+              "RelativeDocumentMoniker": "..\\Reader.DAL\\Reader.DAL\\Migrations\\20251021171140_update_admin_email.cs",
+              "ToolTip": "F:\\Email Reader\\Reader.DAL\\Reader.DAL\\Migrations\\20251021171140_update_admin_email.cs",
+              "RelativeToolTip": "..\\Reader.DAL\\Reader.DAL\\Migrations\\20251021171140_update_admin_email.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:11:40.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "F:\\Email Reader\\Reader.BLL\\Reader.BLL\\Interfaces\\IMailService.cs",
+              "RelativeDocumentMoniker": "..\\Reader.BLL\\Reader.BLL\\Interfaces\\IMailService.cs",
+              "ToolTip": "F:\\Email Reader\\Reader.BLL\\Reader.BLL\\Interfaces\\IMailService.cs",
+              "RelativeToolTip": "..\\Reader.BLL\\Reader.BLL\\Interfaces\\IMailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:42:10.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "F:\\Email Reader\\Reader.BLL\\Reader.BLL\\Services\\MailService.cs",
+              "RelativeDocumentMoniker": "..\\Reader.BLL\\Reader.BLL\\Services\\MailService.cs",
+              "ToolTip": "F:\\Email Reader\\Reader.BLL\\Reader.BLL\\Services\\MailService.cs",
+              "RelativeToolTip": "..\\Reader.BLL\\Reader.BLL\\Services\\MailService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:42:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Email Reader\\Reader.API\\Reader.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Reader.API\\appsettings.json",
+              "ToolTip": "F:\\Email Reader\\Reader.API\\Reader.API\\appsettings.json",
+              "RelativeToolTip": "Reader.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T17:10:06.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Email Reader\\Reader.API\\Reader.API\\Program.cs",
+              "RelativeDocumentMoniker": "Reader.API\\Program.cs",
+              "ToolTip": "F:\\Email Reader\\Reader.API\\Reader.API\\Program.cs",
+              "RelativeToolTip": "Reader.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:07:52.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientResponse.cs",
+              "DocumentMoniker": "F:\\Email Reader\\Reader.BLL\\Reader.BLL\\Contracts\\Client\\Responses\\ClientResponse.cs",
+              "RelativeDocumentMoniker": "..\\Reader.BLL\\Reader.BLL\\Contracts\\Client\\Responses\\ClientResponse.cs",
+              "ToolTip": "F:\\Email Reader\\Reader.BLL\\Reader.BLL\\Contracts\\Client\\Responses\\ClientResponse.cs",
+              "RelativeToolTip": "..\\Reader.BLL\\Reader.BLL\\Contracts\\Client\\Responses\\ClientResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:21:49.461Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

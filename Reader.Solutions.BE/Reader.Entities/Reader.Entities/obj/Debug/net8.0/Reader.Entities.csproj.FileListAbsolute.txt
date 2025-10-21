@@ -1,0 +1,12 @@
+F:\Email Reader\Reader.Entities\Reader.Entities\bin\Debug\net8.0\Reader.Entities.deps.json
+F:\Email Reader\Reader.Entities\Reader.Entities\bin\Debug\net8.0\Reader.Entities.dll
+F:\Email Reader\Reader.Entities\Reader.Entities\bin\Debug\net8.0\Reader.Entities.pdb
+F:\Email Reader\Reader.Entities\Reader.Entities\obj\Debug\net8.0\Reader.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Email Reader\Reader.Entities\Reader.Entities\obj\Debug\net8.0\Reader.Entities.AssemblyInfoInputs.cache
+F:\Email Reader\Reader.Entities\Reader.Entities\obj\Debug\net8.0\Reader.Entities.AssemblyInfo.cs
+F:\Email Reader\Reader.Entities\Reader.Entities\obj\Debug\net8.0\Reader.Entities.csproj.CoreCompileInputs.cache
+F:\Email Reader\Reader.Entities\Reader.Entities\obj\Debug\net8.0\Reader.Entities.dll
+F:\Email Reader\Reader.Entities\Reader.Entities\obj\Debug\net8.0\refint\Reader.Entities.dll
+F:\Email Reader\Reader.Entities\Reader.Entities\obj\Debug\net8.0\Reader.Entities.pdb
+F:\Email Reader\Reader.Entities\Reader.Entities\obj\Debug\net8.0\ref\Reader.Entities.dll
+F:\Email Reader\Reader.Entities\Reader.Entities\obj\Debug\net8.0\Reader.Entities.csproj.AssemblyReference.cache

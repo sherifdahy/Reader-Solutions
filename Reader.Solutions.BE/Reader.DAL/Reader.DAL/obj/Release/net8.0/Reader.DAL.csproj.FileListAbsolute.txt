@@ -1,0 +1,17 @@
+F:\Email Reader\Reader.DAL\Reader.DAL\bin\Release\net8.0\Reader.DAL.deps.json
+F:\Email Reader\Reader.DAL\Reader.DAL\bin\Release\net8.0\Reader.DAL.runtimeconfig.json
+F:\Email Reader\Reader.DAL\Reader.DAL\bin\Release\net8.0\Reader.DAL.dll
+F:\Email Reader\Reader.DAL\Reader.DAL\bin\Release\net8.0\Reader.DAL.pdb
+F:\Email Reader\Reader.DAL\Reader.DAL\bin\Release\net8.0\Reader.Entities.dll
+F:\Email Reader\Reader.DAL\Reader.DAL\bin\Release\net8.0\Reader.Entities.pdb
+F:\Email Reader\Reader.DAL\Reader.DAL\obj\Release\net8.0\Reader.DAL.csproj.AssemblyReference.cache
+F:\Email Reader\Reader.DAL\Reader.DAL\obj\Release\net8.0\Reader.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Email Reader\Reader.DAL\Reader.DAL\obj\Release\net8.0\Reader.DAL.AssemblyInfoInputs.cache
+F:\Email Reader\Reader.DAL\Reader.DAL\obj\Release\net8.0\Reader.DAL.AssemblyInfo.cs
+F:\Email Reader\Reader.DAL\Reader.DAL\obj\Release\net8.0\Reader.DAL.csproj.CoreCompileInputs.cache
+F:\Email Reader\Reader.DAL\Reader.DAL\obj\Release\net8.0\Reader.DAL.csproj.Up2Date
+F:\Email Reader\Reader.DAL\Reader.DAL\obj\Release\net8.0\Reader.DAL.dll
+F:\Email Reader\Reader.DAL\Reader.DAL\obj\Release\net8.0\refint\Reader.DAL.dll
+F:\Email Reader\Reader.DAL\Reader.DAL\obj\Release\net8.0\Reader.DAL.pdb
+F:\Email Reader\Reader.DAL\Reader.DAL\obj\Release\net8.0\Reader.DAL.genruntimeconfig.cache
+F:\Email Reader\Reader.DAL\Reader.DAL\obj\Release\net8.0\ref\Reader.DAL.dll

@@ -1,0 +1,17 @@
+F:\Email Reader\Reader.BLL\Reader.BLL\bin\Debug\net8.0\Reader.BLL.deps.json
+F:\Email Reader\Reader.BLL\Reader.BLL\bin\Debug\net8.0\Reader.BLL.dll
+F:\Email Reader\Reader.BLL\Reader.BLL\bin\Debug\net8.0\Reader.BLL.pdb
+F:\Email Reader\Reader.BLL\Reader.BLL\bin\Debug\net8.0\Reader.DAL.dll
+F:\Email Reader\Reader.BLL\Reader.BLL\bin\Debug\net8.0\Reader.Entities.dll
+F:\Email Reader\Reader.BLL\Reader.BLL\bin\Debug\net8.0\Reader.DAL.pdb
+F:\Email Reader\Reader.BLL\Reader.BLL\bin\Debug\net8.0\Reader.Entities.pdb
+F:\Email Reader\Reader.BLL\Reader.BLL\obj\Debug\net8.0\Reader.BLL.csproj.AssemblyReference.cache
+F:\Email Reader\Reader.BLL\Reader.BLL\obj\Debug\net8.0\Reader.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Email Reader\Reader.BLL\Reader.BLL\obj\Debug\net8.0\Reader.BLL.AssemblyInfoInputs.cache
+F:\Email Reader\Reader.BLL\Reader.BLL\obj\Debug\net8.0\Reader.BLL.AssemblyInfo.cs
+F:\Email Reader\Reader.BLL\Reader.BLL\obj\Debug\net8.0\Reader.BLL.csproj.CoreCompileInputs.cache
+F:\Email Reader\Reader.BLL\Reader.BLL\obj\Debug\net8.0\Reader.BLL.csproj.Up2Date
+F:\Email Reader\Reader.BLL\Reader.BLL\obj\Debug\net8.0\Reader.BLL.dll
+F:\Email Reader\Reader.BLL\Reader.BLL\obj\Debug\net8.0\refint\Reader.BLL.dll
+F:\Email Reader\Reader.BLL\Reader.BLL\obj\Debug\net8.0\Reader.BLL.pdb
+F:\Email Reader\Reader.BLL\Reader.BLL\obj\Debug\net8.0\ref\Reader.BLL.dll
